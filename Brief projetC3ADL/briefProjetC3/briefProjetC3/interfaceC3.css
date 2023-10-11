@@ -1,0 +1,18 @@
+body{
+    font-family: Verdana;
+    border: solid black;
+    margin: 0%;
+    padding: 0%;
+}
+
+.footerHead{
+    border: solid black;
+    display: flex;
+    background-color: #030722;
+
+}
+img .logo{
+    color:#030722 ;
+    width: 3em;
+    height:2em;
+}
